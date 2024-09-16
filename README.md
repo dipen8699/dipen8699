@@ -4,7 +4,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on [ShownetAI](https://github.com/dipen8699/ShownetAI)
 
-- 🌱 I’m currently learning **Machine Learning,LLMs agent**
+- 🌱 I’m currently learning **GenAI,Machine Learning,LLMs agent**
 
 - 🤝 I’m looking for help with [PoT](https://github.com/dipen8699/PoT)
 
