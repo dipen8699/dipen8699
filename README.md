@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipen Kanani</h1>
-<h3 align="center">A passionate GenAI developer from United States</h3>
+<h3 align="center">A passionate Software Engineer from United States</h3>
 
 # 💫About Me :
 - 🔭 I’m currently working on [ShownetAI](https://github.com/dipen8699/ShownetAI)
@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dipen8699?tab=repositories](https://github.com/dipen8699?tab=repositories)
 
-- 💬 Ask me about **python,AI,ML,LLMs**
+- 💬 Ask me about **python, AI, ML, LLMs**
 
 - 📫 How to reach me **dipenkanani8699@gmail.com**
 
-- ⚡ Fun fact **I am like batman do work during night**
+- ⚡ Fun fact **I am like Batman do work during the night**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipen_ivii_ix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipen-kanani-450b5a186/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dk2210) 
