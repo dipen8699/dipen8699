@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from United States</h3>
 
 # 💫About Me :
-- 🔭 I’m currently working on [ShownetAI](https://github.com/dipen8699/ShownetAI)
+- 🔭 I’m currently working on [Leetcode!]
 
 - 🌱 I’m currently learning **GenAI,Machine Learning,LLMs agent**
 
