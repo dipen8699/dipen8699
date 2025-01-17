@@ -27,5 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipen8699&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dipen8699&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{dipen8699}/count.svg)
+
 
